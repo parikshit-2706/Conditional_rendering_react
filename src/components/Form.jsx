@@ -15,7 +15,7 @@ function Form(props) {
         <Input type="text" placeholder="Username" />
         <Input type="password" placeholder="Password" />
         <Input type="password" placeholder="Confirm Password" />
-        <button type="submit"> Login </button>
+        <button type="submit"> Register </button>
       </form>
     );
   }
